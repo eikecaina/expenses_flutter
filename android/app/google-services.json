@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487677241251",
+    "project_id": "faturei-app-dcc3e",
+    "storage_bucket": "faturei-app-dcc3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487677241251:android:f8ccfdcea8ddbb85f2dc16",
+        "android_client_info": {
+          "package_name": "com.example.flutter_curso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmnibv-eOfbJud3vZlJpJqJ1zhnJX2Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
