@@ -1,5 +1,5 @@
 
-# Projeto Flutter Curso
+# Projeto Flutter
 
 <!-- HTML para GitHub -->
 <p align="center">
